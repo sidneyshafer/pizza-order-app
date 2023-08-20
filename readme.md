@@ -1,5 +1,5 @@
 # Pizza Order Application
-A .NET application built with C#.
+A Windows Form App (.NET Framework) built with C#.
 
 ## UI Design
 ![Pizza](https://github.com/sidneyshafer/pizza-order-app/assets/66838571/209cbee3-24da-454e-b5b0-29731b5c5d59)
