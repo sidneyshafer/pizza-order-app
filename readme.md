@@ -1,5 +1,5 @@
 # Pizza Order Application
-Utilized C# in Visual Studio to design and build a .NET Windows Form Application that incorporates user input controls and performs calculations.
+A .NET Windows Form Application that incorporates user input controls and performs calculations.
 
 ## User Interface Design
 ![Pizza](https://github.com/sidneyshafer/pizza-order-app/assets/66838571/209cbee3-24da-454e-b5b0-29731b5c5d59)
